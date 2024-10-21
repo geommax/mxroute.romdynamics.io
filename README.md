@@ -2,6 +2,18 @@
 mxroute.romdynamics.io
 
 
+#### MXRoute and Cloudflare DNS
+
+> Require DKIM Key for TXT Record.
+
+> Require MX Records.
+
+> Auto SSL
+
+> IMAP
+
+> POP3
+
 ![image](https://github.com/user-attachments/assets/903c60f3-0aa3-4227-9dd5-d016664d9522)
 
 
