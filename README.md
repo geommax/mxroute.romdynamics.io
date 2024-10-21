@@ -20,7 +20,7 @@ mxroute.romdynamics.io
 > shadow.mxrouting.net
 
 
-##### CNAME
+##### CNAME Record
 > mail
 
 > shadow.mxrouting.net
@@ -30,10 +30,10 @@ mxroute.romdynamics.io
 > shadow.mxrouting.net
 
 
-##### TXT
+##### TXT Record
 > v=spf1 include:mxlogin.com -all
 
-##### DKIM 
+##### DKIM (TXT Record)
 
 > heeehehehehehehehehe
 
